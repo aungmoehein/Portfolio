@@ -38,7 +38,7 @@
 
 ### Experience 🏢
   * <img src="https://scontent.frgn5-1.fna.fbcdn.net/v/t1.0-1/643975_432439893484027_1959013103_n.jpg?_nc_cat=107&_nc_ht=scontent.frgn5-1.fna&oh=625773ef6311db5d8c4f70d3a55230ba&oe=5D9EB174"  alt="drawing" width="30" height="30"/>&nbsp;&nbsp;Technomation Co. Ltd. 💥
-  * <img src="https://scontent.frgn5-2.fna.fbcdn.net/v/t1.0-1/p480x480/13263816_1127877880602546_3787526431413322599_n.jpg?_nc_cat=102&_nc_ht=scontent.frgn5-2.fna&oh=b50506da56c674590911ec3ba24a0357&oe=5D64AF38"  alt="drawing" width="30" height="30"/>&nbsp;&nbsp;Frontiir Co. Ltd. 🔥
+  * <img src="https://media.licdn.com/dms/image/C4E0BAQGxK51kxxRT2A/company-logo_200_200/0?e=2159024400&v=beta&t=QAou3eDPtQDT8G2_ycPdyby_LwyrqpZh9yq0XoXtfZU"  alt="drawing" width="30" height="30"/>&nbsp;&nbsp;Frontiir Co. Ltd. 🔥
 
 ------
 ### PHP
@@ -62,13 +62,13 @@ Three months work experience of writing **iOS** applications at Frontiir Co. Ltd
   * Test automated UI and unit testings.
 -----
 ### Golang
-Three months work experience at Frontiir Co. Ltd.
+1 year of work experience at Frontiir Co. Ltd.
   * Implemented API end points and **test cases**.
   * Contributed in implementing `Authentication`, `logging`, `throttling`, `localization` middlewares.
   * Contributed in developing of **Oauth2** for third party payment.
 ------
 ### Javascript
-Two months work experience at **React Native** application development in Frontiir Co. Ltd.
+One month work experience at **React Native** application development in Frontiir Co. Ltd.
   * Developed company’s **React Native** applications.
   * Experienced in developing third party *Oauth2 merchant application*. 
 ------
